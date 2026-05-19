@@ -18,7 +18,7 @@ const daniel = {
   ubicacion:   "España 🇪🇸",
   estado:      "Aprendiendo cada día 📚",
   objetivo:    "Convertirme en desarrollador fullstack",
-  hobbies:     ["programar", "música", "gaming", "cafés ☕"],
+  hobbies:     ["programar", "música", "gaming", "moda"],
 };
 ```
 
@@ -49,20 +49,6 @@ const daniel = {
 
 ---
 
-## 📊 Mis Stats de GitHub
-
-<div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 🌱 Actualmente aprendiendo
 
 - 🔷 Profundizando en **JavaScript** y sus frameworks
@@ -76,9 +62,9 @@ const daniel = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vázquez-pereira-724957274/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d4nielvp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dvazper)
 
 </div>
 
@@ -86,8 +72,9 @@ const daniel = {
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO_GITHUB.TU_USUARIO_GITHUB)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dvazper,dvazper)
 
-*"El código es poesía… que a veces no compila"* 😄
+*"Cuanto más oscura es la noche, más brillantes son las estrellas."*
+*"- Braum"*
 
 </div>
