@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Daniel Vázquez Pereira 👋
 
-### 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+### 💻 Indie game dev y programador web!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+en+formaci%C3%B3n+%F0%9F%9A%80;Apasionado+del+Frontend+%26+Backend;Siempre+aprendiendo+algo+nuevo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ```javascript
 const daniel = {
-  estudios:    "DAW – Desarrollo de Aplicaciones Web",
+  estudios:    "DAW – Desarrollo de Aplicaciones Web", "Desarrollo de videojuegos y realidad virtual"
   ubicacion:   "España 🇪🇸",
   estado:      "Aprendiendo cada día 📚",
   objetivo:    "Convertirme en desarrollador fullstack",
